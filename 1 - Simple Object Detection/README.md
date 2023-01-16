@@ -14,12 +14,3 @@ Here are a few images from the test dataset. The blue bounding box refers to the
 ### Worst Cases
 ![](results/photo-1466709270977-7b387d9d3471.jpg)
 ![](results/photo-1518182457238-aacf9536971d.jpg)
-
-## Contact:
-For more follow me on:
-
-- <a href="https://www.youtube.com/idiotdeveloper"> YouTube </a>
-- <a href="https://facebook.com/idiotdeveloper"> Facebook </a>
-- <a href="https://twitter.com/nikhilroxtomar"> Twitter </a>
-- <a href="https://www.instagram.com/nikhilroxtomar"> Instagram </a>
-- <a href="https://t.me/idiotdeveloper"> Telegram </a>
