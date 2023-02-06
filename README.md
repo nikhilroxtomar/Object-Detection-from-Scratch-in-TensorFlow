@@ -6,6 +6,7 @@
 
 ## Datasets
 - [Human Detection](https://www.kaggle.com/datasets/nikhilroxtomar/human-detection/download?datasetVersionNumber=1)
+- [Stanford Car Dataset](https://www.kaggle.com/datasets/jutrera/stanford-car-dataset-by-classes-folder/download?datasetVersionNumber=2)
 
 ## Contact:
 For more follow me on:
